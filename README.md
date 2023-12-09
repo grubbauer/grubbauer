@@ -2,6 +2,7 @@ Open Source Enthusiast | Ubuntu & Windows User
 
 Greetings! I am Raphael, a dedicated hobby-software engineer with a passion for crafting robust and efficient solutions. 
 Proficient in a variety of programming languages, I strive to create clean, maintainable code.
+
 Key Skills:
 
 Programming Languages: Python, Java, C
