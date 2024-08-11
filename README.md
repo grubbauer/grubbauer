@@ -8,4 +8,4 @@ proficient in these languages:
 - Python
 - JavaScript#
   
-Email me at [raphael.grubbauer@hotmail.com](raphael.grubbauer@hotmail.com)
+Email me at [raphael.grubbauer@hotmail.com](mailto:raphael.grubbauer@hotmail.com)
