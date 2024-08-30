@@ -6,6 +6,5 @@ proficient in these languages:
 - C++
 - C#
 - Python
-- JavaScript#
   
 Email me at [raphael.grubbauer@hotmail.com](mailto:raphael.grubbauer@hotmail.com)
